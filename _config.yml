@@ -17,16 +17,16 @@ kramdown:
 #  - jemoji
 
 ## personalize your slide show
-title:       reveal-jekyll
-author:      Thomas Friese
-description: Reveal.js for Jekyll with Solarized Color theme
+title:       Notes
+author:      Vighnesh Nauso shetye
+description: My class 10th notes
 
 sass:
   style:     compressed
 
 ## solarized variant (dark/light)
 solarized:
-  theme:     dark
+  theme:    light ##dark
 
 slideNumber:
   # Slide number formatting can be configured using these variables:
@@ -35,9 +35,9 @@ slideNumber:
   #    "c":  flattened slide number
   #  "c/t":  flattened slide number / total slides
   # "none":  dont't show slide numbers
-  format:    "c/t"
+  format:    "none"
 
-## Reveal.initialize
+## Reveal.initializec/t
 ## At the end of your page you need to initialize reveal by running the following code. Note that all config values are optional and will default as specified below.
 reveal:
   ## The "normal" size of the presentation, aspect ratio will be preserved
